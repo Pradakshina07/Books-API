@@ -44,13 +44,13 @@ DELETE /books/:id → Delete a book
 ## 🖼️ Preview
 
 ### Server Running
-![Server Running](images/server-running.png)
+![Server Running](server-running.png)
 
 ### Add Book
-![Add Book](images/add-book.png)
+![Add Book](add-book.png)
 
 ### Get Books
-![Get Books](images/get-books.png)
+![Get Books](get-books.png)
 📖 Concepts Covered
 REST API basics
 Express routing
